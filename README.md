@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I am Shahana Sheikh, a B.Tech Computer Engineering student passionate about software development.<br>Languages : HTML, CSS, JavaScript, Python, C/C++, Java, Node.js<br>Frameworks : Django, Express.js, Spring Boot<br>Databases : PostgreSQL, MySQL, Express.js<br>Technical skills  : Full Stack Development , Artificial Intelligence ,Machin Learning , DS/DL<br>Experience : Completed 2 internships<br>Goal : To become a Software Engineer and AI/ML Engineer 🚀
 
 
