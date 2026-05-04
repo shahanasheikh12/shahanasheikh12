@@ -1,6 +1,6 @@
 #  About Me:
 I am Shahana Sheikh, a B.Tech Computer Engineering student with a strong passion for software development and problem-solving. I have hands-on experience in building full-stack applications and continuously improving my technical skills.<br>
-Languages : HTML, CSS, JavaScript, TypeScript, Python, C, C++, Java, PHP <br>
+Languages : HTML, CSS, JavaScript, TypeScript, Python, C, C++, Java <br>
 Frameworks : Django, Express.js, Spring Boot, Node.js, Angular, AngularJS, Next.js, Flutter, Streamlit <br>
 Databases : PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Neo4j <br>
 Technical skills : Full Stack Development, Artificial Intelligence, Machine Learning, Deep Learning, Data Structures and Algorithms (DSA), REST API Development, Git & GitHub, Docker<br>
