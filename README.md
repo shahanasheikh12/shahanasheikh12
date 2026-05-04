@@ -4,7 +4,7 @@ Languages : HTML, CSS, JavaScript, TypeScript, Python, C, C++, Java <br>
 Frameworks : Django, Express.js, Spring Boot, Node.js, Angular, AngularJS, Next.js, Flutter, Streamlit <br>
 Databases : PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Neo4j <br>
 Technical skills : Full Stack Development, Artificial Intelligence, Machine Learning, Deep Learning, Data Structures and Algorithms (DSA), REST API Development, Git & GitHub, Docker<br>
-Goal : To become a Software Engineer and AI/ML Engineer by developing scalable applications and contributing to innovative technology solutions 
+Goal : To become a Software Engineer and AI/ML Engineer by developing scalable applications and contributing to innovative technology solutions <br>
 
 
 ## 🌐 Socials:
